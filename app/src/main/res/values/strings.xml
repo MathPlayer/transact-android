@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Transact</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="usernameText">Username</string>
+    <string name="passwordText">Password</string>
+    <string name="loginText">Login</string>
+    <string name="url">http://transact-andreipatrascoiu.c9users.io/</string>
+    <string name="cookiesHeader">Set-Cookie</string>
+</resources>
